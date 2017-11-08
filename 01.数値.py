@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 
-test_integer = 100
+test_integer = 100000
 print(test_integer + 10)
 
 
